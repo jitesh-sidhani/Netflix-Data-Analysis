@@ -8,3 +8,5 @@ What are the five least and most popular genres on Netflix, and how do they cont
 In which year did Netflix release the most number of titles, and what factors might have contributed to this trend?
 
 By addressing these questions, the project aims to provide actionable recommendations to Netflix for enhancing its content offerings and optimizing its content release strategy to cater to diverse user preferences effectively.
+
+Dataset link - https://www.kaggle.com/datasets/shivamb/netflix-shows?select=netflix_titles.csv
